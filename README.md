@@ -1,32 +1,32 @@
-## Hi there 👋
+# 👾 Ghalang | Tech Explorer
 
-<!--
-**ghalangwh-official/ghalangwh-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "Code, Automate, Innovate!"
 
-Here are some ideas to get you started:
+🔹 **Notaris by Day, Coder by Night**  
+🔹 Bash, Termux, and Linux Enthusiast  
+🔹 Open Source Contributor | Automating Workflows  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align="center">
-    <h2 style="font-family: 'Courier New', Courier, monospace; color: #00ff00; animation: wave 1.5s infinite;">Welcome to My Portfolio!</h2>
-</div>
+🚀 **Current Projects:** 🚀
+- 🎵 [Termux Music Player](https://github.com/ghalangwh-official/)  
+- ⚡ Custom Zsh & Bash Prompts  
 
-<style>
-    @keyframes wave {
-        0% { text-shadow: 0 0 0 rgba(0, 255, 0, 0.7), 0 0 2px rgba(0, 255, 0, 0.7); }
-        50% { text-shadow: 0 0 10px rgba(0, 255, 0, 1), 0 0 20px rgba(0, 255, 0, 0.7); }
-        100% { text-shadow: 0 0 0 rgba(0, 255, 0, 0.7), 0 0 2px rgba(0, 255, 0, 0.7); }
-    }
+📜 **Tech Stack:** 📜
 
-    @keyframes fall {
-        0% { top: -20px; }
-        100% { top: 100vh; }
-    }
-</style>
+![Shell](https://img.shields.io/badge/Shell-Bash-%23121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Machine%20Learning-%2300A86B?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+
+📊 **GitHub Stats** 📊
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghalangwh-official&layout=compact&theme=tokyonight) 
+>**"Mending Scroll Fesnuk🗿"**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghalangwh-official&show_icons=true&theme=tokyonight) 
+
+🔴🟡🟢 **Quotes Of The Days** 🟢🟡🔴
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+📡 **Let's Connect:** 🤖  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/ghalangwh-official) [![Website](https://img.shields.io/badge/Website-00A86B?style=for-the-badge)](https://ghalangwh-official.github.io/)  
+
+📍 **Visitor Counter:** 👀
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ghalangwh-official&color=green)
